@@ -1,0 +1,13 @@
+./datasets/train/img/009.jpg	./datasets/train/gt/009.txt
+./datasets/train/img/005.jpg	./datasets/train/gt/005.txt
+./datasets/train/img/008.jpg	./datasets/train/gt/008.txt
+./datasets/train/img/010.jpg	./datasets/train/gt/010.txt
+./datasets/train/img/007.jpg	./datasets/train/gt/007.txt
+./datasets/train/img/T1.jN7XvpiXXXXXXXX_!!0-item_pic.jpg.jpg	./datasets/train/gt/T1.jN7XvpiXXXXXXXX_!!0-item_pic.jpg.txt
+./datasets/train/img/004.jpg	./datasets/train/gt/004.txt
+./datasets/train/img/002.jpg	./datasets/train/gt/002.txt
+./datasets/train/img/T1.3BPFFJdXXXXXXXX_!!0-item_pic.jpg.jpg	./datasets/train/gt/T1.3BPFFJdXXXXXXXX_!!0-item_pic.jpg.txt
+./datasets/train/img/006.jpg	./datasets/train/gt/006.txt
+./datasets/train/img/003.jpg	./datasets/train/gt/003.txt
+./datasets/train/img/T1.AK_XX8hXXbnu_Z1_042512.jpg.jpg	./datasets/train/gt/T1.AK_XX8hXXbnu_Z1_042512.jpg.txt
+./datasets/train/img/001.jpg	./datasets/train/gt/001.txt
