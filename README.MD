@@ -54,7 +54,7 @@
 
 ## 测试
 
-1. 在[eval.sh]最后的''中输入model的路径(有两个，选一个就行）
+1. 在[eval.sh]最后的`''`中输入model的路径(有两个，选一个就行）
 2. 在DBNet.pytorch文件夹下用命令窗口执行 `bash eval.sh`
 
 
